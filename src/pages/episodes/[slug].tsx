@@ -1,6 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Image from 'next/image';
 import Link from 'next/link';
+import Image from 'next/image';
 import { parseISO } from 'date-fns';
 import format from 'date-fns/format';
 import { ptBR } from 'date-fns/locale';
